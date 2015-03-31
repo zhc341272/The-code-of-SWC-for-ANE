@@ -8,9 +8,6 @@ package com.Dsideal.MicroANEforiOS
 
 	/**
 	 * 【功能】：微课项目iOS端的ANE外壳。
-	 * 功能添加：1、调用本地播放器播放录制好的mov视频。 zhanghc 2015-03-23
-	 *                2、从系统视频库中获取视频。zhnghc 2015-03-30
-	 *                3、添加flex端的回调函数，当iOS端完成视频选择的时候，进行视频路径的获取。 zhanghc 2015-03-30
 	 * @author zhanghc 2015-03-23
 	 */
 	public class ANELibUtils extends EventDispatcher
