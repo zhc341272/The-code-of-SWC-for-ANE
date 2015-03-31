@@ -22,4 +22,4 @@ SWC文件链接了iOS层与Flex的应用层，其中包括事件的传递机制�
 2）打开iOS的图册，筛选视频文件，并返回给Flex用户选择的视频的路径。
 
 # 使用范例
-项目还没上传，有时间整理。
+https://github.com/zhc341272/The-code-of-Flex-for-ANE
